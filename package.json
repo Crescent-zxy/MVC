@@ -1,0 +1,10 @@
+{
+  "name": "MVC",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^3.5.1",
+    "style.css": "^1.0.0"
+  }
+}
